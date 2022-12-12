@@ -1,0 +1,24 @@
+
+## Hello World - What is inside this project
+This project is a simple C# application that demonstrates basic functionality of ShakerSort.
+The output of this project is a simple C# output of every step in the sorting algorithm. 
+So you get the whole array when the sorting algorithm swapped 2 elements of the array.
+
+## Getting Started
+To get started with this project, you will need to have the following installed on your system:
+
+- The latest version of C#
+- The latest version of the .Net SDK (6.0)
+- A C# development environment, such as Visual Studio Code
+
+Once you have the prerequisites installed, you can clone or download the project from this repository and open it in your development environment.
+
+
+## Using the project
+To run an example, open the project in your development environment.
+Now open the Terminal and type "dotnet run" to run the example.
+
+
+## Ownership and License
+This project is owned and developed by Dreyex for terms of teaching
+This project is licensed under the [MIT License].

@@ -1,0 +1,15 @@
+C:\Users\user802\Documents\Cyberspace\Sortieralgorithmen\bin\Debug\net6.0\Sortieralgorithmen.exe
+C:\Users\user802\Documents\Cyberspace\Sortieralgorithmen\bin\Debug\net6.0\Sortieralgorithmen.deps.json
+C:\Users\user802\Documents\Cyberspace\Sortieralgorithmen\bin\Debug\net6.0\Sortieralgorithmen.runtimeconfig.json
+C:\Users\user802\Documents\Cyberspace\Sortieralgorithmen\bin\Debug\net6.0\Sortieralgorithmen.dll
+C:\Users\user802\Documents\Cyberspace\Sortieralgorithmen\bin\Debug\net6.0\Sortieralgorithmen.pdb
+C:\Users\user802\Documents\Cyberspace\Sortieralgorithmen\obj\Debug\net6.0\Sortieralgorithmen.csproj.AssemblyReference.cache
+C:\Users\user802\Documents\Cyberspace\Sortieralgorithmen\obj\Debug\net6.0\Sortieralgorithmen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user802\Documents\Cyberspace\Sortieralgorithmen\obj\Debug\net6.0\Sortieralgorithmen.AssemblyInfoInputs.cache
+C:\Users\user802\Documents\Cyberspace\Sortieralgorithmen\obj\Debug\net6.0\Sortieralgorithmen.AssemblyInfo.cs
+C:\Users\user802\Documents\Cyberspace\Sortieralgorithmen\obj\Debug\net6.0\Sortieralgorithmen.csproj.CoreCompileInputs.cache
+C:\Users\user802\Documents\Cyberspace\Sortieralgorithmen\obj\Debug\net6.0\Sortieralgorithmen.dll
+C:\Users\user802\Documents\Cyberspace\Sortieralgorithmen\obj\Debug\net6.0\refint\Sortieralgorithmen.dll
+C:\Users\user802\Documents\Cyberspace\Sortieralgorithmen\obj\Debug\net6.0\Sortieralgorithmen.pdb
+C:\Users\user802\Documents\Cyberspace\Sortieralgorithmen\obj\Debug\net6.0\Sortieralgorithmen.genruntimeconfig.cache
+C:\Users\user802\Documents\Cyberspace\Sortieralgorithmen\obj\Debug\net6.0\ref\Sortieralgorithmen.dll
