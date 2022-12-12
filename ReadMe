@@ -4,6 +4,7 @@ This project is a simple C# application that demonstrates basic functionality of
 The output of this project is a simple C# output of every step in the sorting algorithm. 
 So you get the whole array when the sorting algorithm swapped 2 elements of the array.
 
+
 ## Getting Started
 To get started with this project, you will need to have the following installed on your system:
 
